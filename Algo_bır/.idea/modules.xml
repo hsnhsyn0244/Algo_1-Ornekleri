@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgoFinal/AlgoFinal.iml" filepath="$PROJECT_DIR$/AlgoFinal/AlgoFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algo_bır.iml" filepath="$PROJECT_DIR$/.idea/Algo_bır.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methots/Methots.iml" filepath="$PROJECT_DIR$/Methots/Methots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rekürsif/Rekürsif.iml" filepath="$PROJECT_DIR$/Rekürsif/Rekürsif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringiTerseCevirme/StringiTerseCevirme.iml" filepath="$PROJECT_DIR$/StringiTerseCevirme/StringiTerseCevirme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algoCıkmısSorular/algoCıkmısSorular.iml" filepath="$PROJECT_DIR$/algoCıkmısSorular/algoCıkmısSorular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algo_1_ornekler/algo_1_ornekler.iml" filepath="$PROJECT_DIR$/algo_1_ornekler/algo_1_ornekler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchBloklari/switchBloklari.iml" filepath="$PROJECT_DIR$/switchBloklari/switchBloklari.iml" />
+    </modules>
+  </component>
+</project>
